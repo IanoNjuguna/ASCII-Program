@@ -7,4 +7,5 @@ This directory contains:
 	2. The executable (```ASCII-Program```}.
 
 To run the executable in your Bash shell do this:
+
 	```./ASCII-Program```
